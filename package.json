@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/asmaaadel0/Natours#readme",
   "dependencies": {
+    "live-server": "^1.1.0",
     "sass": "^1.54.9"
   }
 }
