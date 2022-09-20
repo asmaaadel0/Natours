@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/asmaaadel0/Natours/issues"
   },
-  "homepage": "https://github.com/asmaaadel0/Natours#readme"
+  "homepage": "https://github.com/asmaaadel0/Natours#readme",
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "sass": "^1.54.9"
+  }
 }
