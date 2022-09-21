@@ -43,6 +43,7 @@
     opacity: 0;
     transition: all 0.5s;
     backface-visibility: hidden;
+    color: $color-white;
   }
 
   &:hover &__caption {
@@ -50,7 +51,7 @@
     transform: translate(-50%, -50%);
   }
 
-  &:hover &__img{
+  &:hover &__img {
     transform: translateX(-4rem) scale(1);
     filter: blur(3px) brightness(80%);
   }

@@ -426,6 +426,7 @@ body {
   opacity: 0;
   transition: all 0.5s;
   backface-visibility: hidden;
+  color: #fff;
 }
 .story:hover .story__caption {
   opacity: 1;
