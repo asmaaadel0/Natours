@@ -17,41 +17,42 @@
 
 
  ## ScreenShots from the website: <a name = "screen-shots"></a>
+ 
 <h3 align='left'>Main Screen</h3>
 
- ![image](https://user-images.githubusercontent.com/88618793/182143193-b4fb1d94-b311-45d4-85bc-a0961976620c.png)
+![Capture1](https://user-images.githubusercontent.com/88618793/191752145-39847c8a-0050-4c1a-bb83-cf0a684a049f.PNG)
 
  <h3 align='left'>The Navigation</h3>
 
-![image](https://user-images.githubusercontent.com/88618793/182144298-4540fb25-151a-49aa-aff4-a6e3d156d9c1.png)
+![Capture8](https://user-images.githubusercontent.com/88618793/191752782-08ef8ece-57ca-4153-bb4a-2ef06ca122c3.PNG)
 
 <h3 align='left'>About Section</h3>
 
-![image](https://user-images.githubusercontent.com/88618793/182144110-475b7291-268d-4e66-ab6d-fba1075e89f2.png)
-
-<h3 align='left'>About Section</h3>
-
-![image](https://user-images.githubusercontent.com/88618793/182144110-475b7291-268d-4e66-ab6d-fba1075e89f2.png)
+![Capture2](https://user-images.githubusercontent.com/88618793/191752181-8fb03ceb-dd90-45c8-9c24-9b041eb56f48.PNG)
 
 <h3 align='left'>Features Section</h3>
 
-![image](https://user-images.githubusercontent.com/88618793/182144110-475b7291-268d-4e66-ab6d-fba1075e89f2.png)
+![Capture3](https://user-images.githubusercontent.com/88618793/191752548-e46d5157-19c0-4af9-87b4-c5b25d9f51b6.PNG)
 
 <h3 align='left'>Tours Section</h3>
 
-![image](https://user-images.githubusercontent.com/88618793/182144110-475b7291-268d-4e66-ab6d-fba1075e89f2.png)
+![Capture4](https://user-images.githubusercontent.com/88618793/191752522-611df238-5f61-4d8b-842e-f116d465d8fa.PNG)
 
 <h3 align='left'>Stories Section</h3>
 
-![image](https://user-images.githubusercontent.com/88618793/182144110-475b7291-268d-4e66-ab6d-fba1075e89f2.png)
+![Capture5](https://user-images.githubusercontent.com/88618793/191752667-1f5ebbb2-bc82-40fe-847c-f33ff3caa5bb.PNG)
 
 <h3 align='left'>Book Section</h3>
 
-![image](https://user-images.githubusercontent.com/88618793/182144110-475b7291-268d-4e66-ab6d-fba1075e89f2.png)
+![Capture6](https://user-images.githubusercontent.com/88618793/191752607-8fdf628e-98ba-46bb-bf53-dfe676ae72f4.PNG)
 
 <h3 align='left'>Popup Section</h3>
 
-![image](https://user-images.githubusercontent.com/88618793/182144110-475b7291-268d-4e66-ab6d-fba1075e89f2.png)
+![Capture9](https://user-images.githubusercontent.com/88618793/191752817-c5eb65f2-650c-4815-892e-19a05efc955b.PNG)
+
+<h3 align='left'>The footer</h3>
+
+![Capture7](https://user-images.githubusercontent.com/88618793/191752886-5302af28-e3ee-4af0-9d7f-e690ac22392d.PNG)
 
 ## Screen Video from the Website: <a name = "screen-video"></a>
 
