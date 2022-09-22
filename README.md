@@ -2,8 +2,8 @@
 
 - [About <a name = "about"></a>](#about-)
 - [Website link <a name = "link"></a>](#website-link-)
-- [ScreenShots from the website: <a name = "screen-shots"></a>](#screenshots-from-the-website-)
-- [Screen Video from the Website: <a name = "screen-video"></a>](#screen-video-from-the-website-)
+- [ScreenShots from the website <a name = "screen-shots"></a>](#screenshots-from-the-website-)
+- [Screen Video from the Website <a name = "screen-video"></a>](#screen-video-from-the-website-)
 - [Contributors <a name = "Contributors"></a>](#contributors-)
 
 ## About <a name = "about"></a>
