@@ -9,6 +9,10 @@
   font-size: $default-font-size;
   transform: skewX(-12deg);
 
+  @media (max-width:600px){
+    width: 50%;
+  }
+
   &__shape {
     width: 15rem;
     height: 15rem;

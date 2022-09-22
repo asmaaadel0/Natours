@@ -1,3 +1,17 @@
+/*
+0    - 600px:  phone
+600  - 900px:  tablet protrail
+900  - 1200px: tablet landscape
+
+[1200 - 1800]  is where our normal style
+1800px + : big desctop
+
+$breakpoint argument choices:
+- phone
+- tab-port
+- tab-land
+- big-desktop
+*/
 @keyframes moveInLeft {
   0% {
     opacity: 0;
@@ -44,6 +58,21 @@
 
 html {
   font-size: 62.5%;
+}
+@media (max-width: 75em) {
+  html {
+    font-size: 56.25%;
+  }
+}
+@media (max-width: 56.25em) {
+  html {
+    font-size: 50%;
+  }
+}
+@media (min-width: 112.5em) {
+  html {
+    font-size: 75%;
+  }
 }
 
 body {
@@ -397,6 +426,11 @@ body {
   padding-left: 9rem;
   font-size: 1.6rem;
   transform: skewX(-12deg);
+}
+@media (max-width: 600px) {
+  .story {
+    width: 50%;
+  }
 }
 .story__shape {
   width: 15rem;
