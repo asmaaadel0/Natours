@@ -2,7 +2,7 @@
 
 - [About <a name = "about"></a>](#about-)
 - [Website link <a name = "link"></a>](#website-link-)
-- [Screen Vedio from the Website: <a name = "screen-vedio"></a>](#screen-vedio-from-the-website-)
+- [Screen Video from the Website: <a name = "screen-video"></a>](#screen-video-from-the-website-)
 - [Contributors <a name = "Contributors"></a>](#contributors-)
 
 ## About <a name = "about"></a>
@@ -13,7 +13,7 @@
 
 - https://natours-five-theta.vercel.app/
 
-## Screen Video from the Website: <a name = "screen-vedio"></a>
+## Screen Video from the Website: <a name = "screen-video"></a>
 
 
 https://user-images.githubusercontent.com/88618793/191746877-01bea983-fcae-4d18-b7a5-5956efc78663.mp4
