@@ -37,6 +37,10 @@
 
 ![Capture4](https://user-images.githubusercontent.com/88618793/191752522-611df238-5f61-4d8b-842e-f116d465d8fa.PNG)
 
+<h3 align='left'>Popup Section</h3>
+
+![Capture9](https://user-images.githubusercontent.com/88618793/191752817-c5eb65f2-650c-4815-892e-19a05efc955b.PNG)
+
 <h3 align='left'>Stories Section</h3>
 
 ![Capture5](https://user-images.githubusercontent.com/88618793/191752667-1f5ebbb2-bc82-40fe-847c-f33ff3caa5bb.PNG)
@@ -44,10 +48,6 @@
 <h3 align='left'>Book Section</h3>
 
 ![Capture6](https://user-images.githubusercontent.com/88618793/191752607-8fdf628e-98ba-46bb-bf53-dfe676ae72f4.PNG)
-
-<h3 align='left'>Popup Section</h3>
-
-![Capture9](https://user-images.githubusercontent.com/88618793/191752817-c5eb65f2-650c-4815-892e-19a05efc955b.PNG)
 
 <h3 align='left'>The footer</h3>
 
