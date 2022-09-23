@@ -80,6 +80,7 @@
         </div>
       </div>
     </section>
+
     <section class="section-features">
       <div class="row">
         <div class="col-1-of-4">
@@ -135,6 +136,7 @@
         </div>
       </div>
     </section>
+
     <section class="section-tours" id="section-tours">
       <div class="u-center-text u-margin-bottom-big">
         <h2 class="heading-secondary">Most popular tours</h2>
@@ -176,7 +178,6 @@
           </div>
         </div>
 
-
         <div class="col-1-of-3">
           <div class="card">
             <div class="card__side card__side--front">
@@ -211,7 +212,6 @@
             </div>
           </div>
         </div>
-
 
         <div class="col-1-of-3">
           <div class="card">
@@ -312,6 +312,7 @@
       </div>
 
     </section>
+
     <section class="section-book">
 
       <div class="row">
@@ -361,11 +362,15 @@
         </div>
       </div>
     </section>
+
   </main>
 
   <footer class="footer">
     <div class="footer__logo-box">
-      <img src="imgs/logo-green-2x.png" alt="full logo" class="footer__logo">
+      <picture class="footer__logo">
+        <source srcset="imgs/logo-green-small-1x.png 1x, imgs/logo-green-small-2x.png 2x" media="(max-width: 37.5em)">
+        <img srcset="imgs/logo-green-1x.png 1x, imgs/logo-green-2x.png 2x" alt="full logo">
+      </picture>
     </div>
     <div class="row">
       <div class="col-1-of-2">
@@ -418,7 +423,7 @@
       </div>
     </div>
   </div>
-  
+
   <!-- <section class="grid-test">
       <div class="row">
         <div class="col-1-of-2">col 1 of 2</div>
