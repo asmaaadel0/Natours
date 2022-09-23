@@ -4,7 +4,10 @@
   "description": "landing page for natours",
   "main": "index.js",
   "scripts": {
-    "compile:sass": "sass sass/main.scss  css/style.css -w"
+    "watch:sass": "sass sass/main.scss  css/style.css -w",
+    "compile:sass": "sass sass/main.scss  css/style.comp.css -w",
+    "concat:css": "concat -o css/style.concat.css css/icon-font.css css/style.comp.css",
+    "prefix:css": "postcss --use auto"
   },
   "repository": {
     "type": "git",
@@ -19,5 +22,10 @@
   "dependencies": {
     "live-server": "^1.1.0",
     "sass": "^1.54.9"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "concat": "^1.0.3",
+    "postcss-cli": "^10.0.0"
   }
 }
