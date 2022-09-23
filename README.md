@@ -8,7 +8,7 @@
 
 ## About <a name = "about"></a>
 
-- It's a website with advanced animation, and styling, where I use sass, sass architecture, and icon-fonts.
+- It's a website with advanced animation, and styling, where I use sass, sass architecture, and icon-fonts with responsive design.
 
 ## Website link <a name = "link"></a>
 
