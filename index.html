@@ -32,6 +32,7 @@
       </ul>
     </nav>
   </div>
+
   <header class="header">
     <div class="header__logo-box">
       <img src="./imgs/logo-white.png" alt="logo" class="header__logo" />
@@ -73,9 +74,21 @@
         </div>
         <div class="col-1-of-2">
           <div class="composition">
-            <img src="imgs/nat-1-large.jpg" alt="" class="composition__photo composition__photo--p1" /><img
-              src="imgs/nat-2-large.jpg" alt="" class="composition__photo composition__photo--p2" /><img
-              src="imgs/nat-3-large.jpg" alt="" class="composition__photo composition__photo--p3" />
+
+            <img srcset="imgs/nat-1.jpg 300w, imgs/nat-1-large.jpg 1000w"
+              sizes="(max-width: 900px) 20vw, (max-width: 600px) 30vw, 300px" alt="photo 1"
+              class="composition__photo composition__photo--p1" src="imgs/nat-1-large.jpg">
+
+            <img srcset="imgs/nat-2.jpg 300w, imgs/nat-2-large.jpg 1000w"
+              sizes="(max-width: 900px) 20vw, (max-width: 600px) 30vw, 300px" alt="photo 2"
+              class="composition__photo composition__photo--p2" src="imgs/nat-2-large.jpg">
+
+            <img srcset="imgs/nat-3.jpg 300w, imgs/nat-3-large.jpg 1000w"
+              sizes="(max-width: 900px) 20vw, (max-width: 600px) 30vw, 300px" alt="photo 3"
+              class="composition__photo composition__photo--p3" src="imgs/nat-3-large.jpg">
+            <!-- <img src="imgs/nat-1-large.jpg" alt="" class="composition__photo composition__photo--p1" />
+            <img src="imgs/nat-2-large.jpg" alt="" class="composition__photo composition__photo--p2" />
+            <img src="imgs/nat-3-large.jpg" alt="" class="composition__photo composition__photo--p3" /> -->
           </div>
         </div>
       </div>
@@ -369,7 +382,7 @@
     <div class="footer__logo-box">
       <picture class="footer__logo">
         <source srcset="imgs/logo-green-small-1x.png 1x, imgs/logo-green-small-2x.png 2x" media="(max-width: 37.5em)">
-        <img srcset="imgs/logo-green-1x.png 1x, imgs/logo-green-2x.png 2x" alt="full logo">
+        <img srcset="imgs/logo-green-1x.png 1x, imgs/logo-green-2x.png 2x" alt="full logo" src="imgs/logo-green-2x.png">
       </picture>
     </div>
     <div class="row">
