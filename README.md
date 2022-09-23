@@ -8,7 +8,7 @@
 
 ## About <a name = "about"></a>
 
-- It's a website with advanced animation, and styling, where I use sass, sass architecture, and icon-fonts with responsive design.
+- It's a website with advanced animation, and styling, where I use sass, sass architecture, and icon-fonts.
 
 ## Website link <a name = "link"></a>
 
@@ -55,8 +55,13 @@
 
 ## Screen Video from the Website: <a name = "screen-video"></a>
 
+<h3 align='left'>Main video</h3>
 
 https://user-images.githubusercontent.com/88618793/191746877-01bea983-fcae-4d18-b7a5-5956efc78663.mp4
+
+<h3 align='left'>Reponsive design video</h3>
+
+https://user-images.githubusercontent.com/88618793/192014705-5ba79faf-c78c-4508-8116-a9704ed2605f.mp4
 
 
 ## Contributors <a name = "Contributors"></a>
